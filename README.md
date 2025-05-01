@@ -3,7 +3,6 @@ My first repository
 
 # The Walking Dead
 **"The Walking Dead"** is a post-apocalyptic horror television series based on the comic book series of the same name by **Robert Kirkman**, **Tony Moore**, and **Charlie Adlard**.
-
 - **Genre:** Horror, Drama, Thriller, Post-apocalyptic  
 - **Created by:** Frank Darabont  
 - **Based on:** *The Walking Dead* comic series  
