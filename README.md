@@ -16,8 +16,19 @@ My first repository
 The story is set in a world devastated by a zombie outbreak. Survivors must face constant threats not just from **"walkers"** (zombies), but also from other **desperate humans**, **ruthless leaders**, and the collapse of society.
 
 ## Main Characters
-- **Rick Grimes** – Former sheriff, main protagonist (played by Andrew Lincoln)  
-- **Daryl Dixon** – Skilled tracker and hunter (played by Norman Reedus)  
-- **Michonne** – Katana-wielding warrior (played by Danai Gurira)  
-- **Carol Peletier** – Survivor with a strong character arc (played by Melissa McBride)  
-- **Negan Smith** – Charismatic but brutal antagonist (played by Jeffrey Dean Morgan)
+- **Rick Grimes** – *Andrew Lincoln*  
+  - Former sheriff’s deputy and the show's original main protagonist. A natural leader who constantly struggles between morality and survival.
+- **Carl Grimes** – *Chandler Riggs*  
+  - Rick's son who grows up in the apocalypse. His development from innocent child to hardened survivor is central to the story.
+- **Daryl Dixon** – *Norman Reedus*  
+  - Expert tracker and crossbow-wielding fighter. Loyal, quiet, and resourceful. A fan favorite who survives from start to end.
+- **Michonne** – *Danai Gurira*  
+  - Sword-wielding survivor with a traumatic past. Becomes a strong leader and love interest to Rick.
+- **Carol Peletier** – *Melissa McBride*  
+  - Transforms from a timid abused wife into one of the most capable, cold, and strategic survivors.
+- **Maggie Greene** – *Lauren Cohan*  
+  - A farm girl turned strong leader. Faces loss and tragedy but rises as a resilient mother and fighter.
+- **Glenn Rhee** – *Steven Yeun*  
+  - Brave and compassionate former pizza delivery guy. Known for his loyalty, cleverness, and tragic fate.
+- **Negan Smith** – *Jeffrey Dean Morgan*  
+  - Former ruthless leader of the Saviors. Known for his charisma, brutality, and complex redemption arc.
