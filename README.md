@@ -1,11 +1,11 @@
 # app-dev
 My first repository
 
-# 🧟 The Walking Dead
+# The Walking Dead
 ---
 **"The Walking Dead"** is a post-apocalyptic horror television series based on the comic book series of the same name by **Robert Kirkman**, **Tony Moore**, and **Charlie Adlard**.
 
-## 📅 Basic Information
+## Basic Information
 ---
 - **Genre:** Horror, Drama, Thriller, Post-apocalyptic  
 - **Created by:** Frank Darabont  
@@ -16,11 +16,11 @@ My first repository
 - **Seasons:** 11  
 - **Episodes:** 177
 
-## 🌍 Setting
+## Setting
 ---
 The story is set in a world devastated by a zombie outbreak. Survivors must face constant threats not just from **"walkers"** (zombies), but also from other **desperate humans**, **ruthless leaders**, and the collapse of society.
 
-## 👥 Main Characters
+## Main Characters
 ---
 - **Rick Grimes** – Former sheriff, main protagonist (played by Andrew Lincoln)  
 - **Daryl Dixon** – Skilled tracker and hunter (played by Norman Reedus)  
